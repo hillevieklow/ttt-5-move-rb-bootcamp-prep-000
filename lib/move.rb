@@ -10,6 +10,6 @@ def input_to_index(user_imput)
   index = user_imput.to_i - 1
 end
 
-def move()
+def move(board, user_imput)
 end
 # code your input_to_index and move method here!
