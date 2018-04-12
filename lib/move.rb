@@ -12,4 +12,3 @@ def move(board, index, type="X")
   array[index.to_i - 1] = type
   array
 end
-# code your input_to_index and move method here!
